@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aticinc.github.io/sitemap.html.gz
+Sitemap: https://aticinc.github.io/app/sitemap.html.gz
+Sitemap: https://aticinc.github.io/assets/sitemap.html.gz
+Sitemap: https://aticinc.github.io/css/sitemap.html.gz
+Sitemap: https://aticinc.github.io/includes/sitemap.html.gz
+Sitemap: https://aticinc.github.io/item/sitemap.html.gz
+Sitemap: https://aticinc.github.io/src/sitemap.html.gz
